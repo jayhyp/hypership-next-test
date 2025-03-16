@@ -78,8 +78,9 @@ export default function Home() {
       {/* Section for README.md */}
       <div className="readme-section">
         <p>
-          Check out the <code className="hypership-code">README.md</code> to
-          learn about this template.
+          Check out the Updated{" "}
+          <code className="hypership-code">README.md</code> to learn about this
+          template.
         </p>
       </div>
       <footer className="footer">
